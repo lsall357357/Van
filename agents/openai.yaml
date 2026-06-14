@@ -1,0 +1,7 @@
+interface:
+  display_name: "早期项目问题定位助手"
+  short_description: "定位早期项目、BP材料与融资沟通中的关键卡点"
+  default_prompt: "Use $early-stage-startup-problem-finder to review my early-stage startup idea or BP and identify likely investor blockers."
+
+policy:
+  allow_implicit_invocation: true
